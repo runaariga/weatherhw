@@ -1,0 +1,27 @@
+##Objective
+Build an application where the user can search up a city and get the weather forecast.
+Deploy Link
+https://runaariga.github.io/weatherhw/
+
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+$ git clone git@github.com:runaariga/weatherhw.git
+
+Built With
+CSS Library:
+
+Bootstrap
+JS Library:
+
+JQuery
+
+Technology:
+
+HTML
+CSS
+Javascript
+
+###Authors Contributors names and contact info:
+
+Runa
